@@ -1,2 +1,2 @@
-# clim680 assigments
+# clim680 assignments
 
